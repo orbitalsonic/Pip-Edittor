@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PIP Camera</string>
+    <string name="title_activity_pipgallery">PIPGallery</string>
+    <string name="editor_menu_blur">blur</string>
+    <string name="editor_menu_save">save</string>
+
+    <string-array name="fonts">
+        <item>advanture</item>
+        <item>ashley</item>
+        <item>balloon</item>
+        <item>bangers</item>
+        <item>cookie</item>
+        <item>lily</item>
+        <item>lucky</item>
+        <item>victorian</item>
+    </string-array>
+
+
+</resources>
